@@ -1,0 +1,70 @@
+﻿@charset "UTF-8";
+/*
+    Author: Steven Chorkawy 
+    Date: 05/24/2016
+    Description: Hi I'm not good at art stuff so I'm making a collection of colors that I think look good on the web. 
+*/
+
+/*Blues*/
+.my-color-nice-blue{
+    color: #006699;
+}
+
+.my-color-facebook-blue{
+    color: #3B5998;
+}
+
+.my-color-twitter-blue{
+    color: #00aced;
+}
+
+.my-color-light-blue {
+    color:#BB00BB;
+}
+
+.my-color-blue {
+    color:#0052FF;
+}
+
+/*Green*/
+.my-color-dark-green{
+    color: #207A0F;
+}
+
+.my-color-light-green{
+    color: rgb(19, 170, 74);
+}
+
+
+/*Red*/
+.my-color-red {
+    color:#ff0000;
+}
+
+/*Yellow*/
+.my-color-yellow{
+    color:#FFD700;
+}
+
+/*Grey*/
+.my-color-dark-grey{
+    color:#383E4C;
+}
+.my-color-dark-grey-bg{
+    background-color: #383E4C;
+}
+
+/*White*/
+.my-color-white {
+    color: #fff;
+}
+
+/*Black*/
+.my-color-black{
+    color:#000000;
+}
+
+.my-color-light-black{
+    color: #333;
+}
+

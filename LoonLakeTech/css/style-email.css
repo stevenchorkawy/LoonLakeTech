@@ -1,0 +1,64 @@
+﻿/*TABLES*/
+.wide-table{
+    width: 750px;
+}
+.wide-table th {
+    width: 75px;
+}
+.wide-table td {
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.wide-table table, th, td
+{
+    /*border: 1px solid black;*/
+}
+
+.narrow-table {
+    width: 700px;
+    font-size: smaller;
+}
+.narrow-table td {
+    padding-bottom: 1px;
+}
+
+/*COLUMNS*/
+.condition-col {
+    width: 140px;
+    padding-left: 10px;
+
+    font-size: smaller;
+}
+
+.col-75 {
+    width: 75%;
+}
+.col-60 {
+    width: 60%;
+}
+.col-55{
+    width: 55%;
+}
+.col-50{
+    width: 50%;
+}
+.col-45 {
+    width: 45%;
+}
+.col-40 {
+    width: 40%;
+}
+.col-30 {
+    width: 33.3333333%;
+}
+.col-25 {
+    width: 25%;
+}
+
+
+
+
+/*ROWS*/
+.condition-row{
+    margin-bottom: 20px;
+}
